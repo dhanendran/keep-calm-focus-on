@@ -5,7 +5,7 @@ A simple [Electron](https://electronjs.org/) application to play white noise whi
 I juggle between multiple tasks many times in a day, when I switch my task I need to completely focus on them to complete it. So I created this simple app to focus on the task.
 
 ## Screenshots
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Keep Calm Focus ON](https://github.com/dhanendran/keep-calm-focus-on/raw/master/assets/images/application.png)
 
 ## Tech/framework used
 
